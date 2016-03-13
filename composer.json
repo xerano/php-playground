@@ -1,0 +1,6 @@
+{
+    "require": {
+        "peej/tonic": "3.*",
+        "pimple/pimple": "~3.0"
+    }
+}
